@@ -65,37 +65,37 @@
 		<footer>
 			<ul align='center' class='list-inline'>
 				<li>
-					<a href='#' class='btn-social btn-outline'>
+					<a href='https://facebook.com/RizkyWebID' class='btn-social btn-outline'>
 						<img class='img-circle img-responsive img-center' src='img/Icon-Facebook.png' alt='Facebook'>
 					</a>
 				</li>
 				<li>
-					<a href='#' class='btn-social btn-outline'>
+					<a href='https://github.com/RizkyWebID' class='btn-social btn-outline'>
 						<img class='img-circle img-responsive img-center' src='img/Icon-Github.png' alt='Github'>
 					</a>
 				</li>
 				<li>
-					<a href='#' class='btn-social btn-outline'>
+					<a href='https://plus.google.com/102081242066644565101' class='btn-social btn-outline'>
 						<img class='img-circle img-responsive img-center' src='img/Icon-Google.png' alt='Google'>
 					</a>
 				</li>
 				<li>
-					<a href='#' class='btn-social btn-outline'>
+					<a href='https://instagram.com/RizkyWebID' class='btn-social btn-outline'>
 						<img class='img-circle img-responsive img-center' src='img/Icon-Instagram.png' alt='Instagram'>
 					</a>
 				</li>
 				<li>
-					<a href='#' class='btn-social btn-outline'>
+					<a href='https://twitter.com/RizkyWebID' class='btn-social btn-outline'>
 						<img class='img-circle img-responsive img-center' src='img/Icon-Twitter.png' alt='Twitter'>
 					</a>
 				</li>
 				<li>
-					<a href='#' class='btn-social btn-outline'>
+					<a href='http://BlogRizky.Com/' class='btn-social btn-outline'>
 						<img class='img-circle img-responsive img-center' src='img/Icon-Wordpress.png' alt='Wordpress'>
 					</a>
 				</li>
 				<li>
-					<a href='#' class='btn-social btn-outline'>
+					<a href='https://www.youtube.com/user/RizkyWebID' class='btn-social btn-outline'>
 						<img class='img-circle img-responsive img-center' src='img/Icon-Youtube.png' alt='Youtube'>
 					</a>
 				</li>
